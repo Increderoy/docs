@@ -1,3 +1,4 @@
+![Screenshot_20231224-100543](https://github.com/github/docs/assets/154736687/67b38629-e920-4a5b-9c7a-babeb46abdb4)
 ---
 title: Authenticating with SAML single sign-on
 intro: 'You can authenticate to {% data variables.product.product_name %} with SAML single sign-on (SSO){% ifversion ghec %} and view your active sessions{% endif %}.'
